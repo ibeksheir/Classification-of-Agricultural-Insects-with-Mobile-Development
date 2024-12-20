@@ -7,6 +7,8 @@ This project focuses on developing edge-optimized deep learning models for class
 
 The accompanying mobile application integrates these models to deliver an accessible, on-device solution for farmers, ensuring practical applicability in resource-constrained environments.
 
+**Note**: The full code implementation and additional details will be made available once the associated research paper is accepted for publication.
+
 ---
 
 ## Features
@@ -54,7 +56,17 @@ A Flutter-based app integrates the optimized models for on-device classification
 - **Detailed Analysis**: Displays confidence scores and offers mitigation strategies via Firebase integration.
 
 ---
+## App Screenshots
 
+Here are some screenshots demonstrating how the mobile application works:
+
+### Main Interface
+![Main Interface](./screenshots/main_interface.png)
+
+### Insect Classification Result
+![Classification Result](./screenshots/classification_result.png)
+
+---
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
